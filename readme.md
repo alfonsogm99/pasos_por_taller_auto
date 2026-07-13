@@ -7,7 +7,7 @@
 
 2. Separa los datos en columnas.
 
-3. Elimina todas las líneas que no tengan datos en la celda A, mostrados en la lista de ASP.
+3. Elimina todas las líneas que no tengan datos en la columna A, mostrados en la lista de ASP.
 
 ```
    011
