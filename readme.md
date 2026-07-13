@@ -1,4 +1,4 @@
-# README
+## README
 
 
 1. Se extrae la información de los talleres en formato `.csv` de la base de datos.
@@ -12,16 +12,16 @@ script.py
 3. Elimina todas las líneas que no tengan datos en la celda A, mostrados en la lista de ASP.
 
 ```
-   * 011
-   * 012
-   * 013
-   * 014
-   * 015
+   011
+   012
+   013
+   014
+   015
 ```
 
 4. Exporta el resultado como `.xlsx`.
 
-# 📁 Resultado
+## 📁 Resultado
 
 Automatiza el filtrado de un listado para la extracción de datos de Asesores de Servicio (ASP). Con estos listados puedo plasmar información a través del número de un Asesor de servicio (ASP), por ejemplo; la contabilización de pasos por día o elementos de desgaste, como neumáticos vendidos.....
 
