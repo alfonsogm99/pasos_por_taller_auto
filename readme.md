@@ -3,7 +3,7 @@
 
 1. Se extrae la información de los talleres en formato `.csv` de la base de datos.
 
-### script.py
+#### script.py
 
 2. Separa los datos en columnas.
 
